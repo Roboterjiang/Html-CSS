@@ -1,0 +1,12 @@
+<html>
+ <body>
+  <h1>邮箱链接</h1>
+  <p>
+   <a href="mailto:jon@example.org">Email Jon</a>
+  </p>
+  <h1>在新窗口中打开链接</h1>
+  <p>
+   <a href="http:www.imdb.com"target="_blank">Internet Movie Database</a>(open in new window)
+  </p>
+ </body>
+</html>

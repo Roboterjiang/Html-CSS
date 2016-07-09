@@ -1,0 +1,18 @@
+<html>
+ <body>
+  <h1>缩写词和首字母缩写词</h1>
+  <p>
+   <abbr title="Professor">Prof</abbr> Stephen Hawking is a theoretical physicist and cosmologist.
+  </p>
+  <p>
+   <acconym title="National Aeronautics and Space Administration">NASA</acconym> do some crazy space stuff.
+  </p>
+  <h2>引文和定义</h2>
+  <p>
+   <cite>A Brief History of Time</cite> by Stephen Hawking has sold over ten million copies worldwide.
+  </p>
+  <P>
+   A <dfn>black hole</dfn> is a region of from which nothing, not even light, can escape.
+  </p>
+ </body>
+</html>
